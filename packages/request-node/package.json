@@ -62,7 +62,7 @@
     "keyv-file": "0.2.0",
     "shelljs": "0.8.5",
     "tslib": "2.5.0",
-    "web3-providers-ws": "1.6.1",
+    "web3-providers-ws": "4.0.1",
     "yargs": "17.6.2"
   },
   "devDependencies": {
